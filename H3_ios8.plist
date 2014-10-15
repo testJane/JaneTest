@@ -17,7 +17,7 @@
               <key>kind</key>
               <string>display-image</string>
               <key>needs-shine</key>
-              <true/>
+              <false/>
               <key>url</key>
               <string>https://raw.githubusercontent.com/testJane/JaneTest/master/H3weekly.png</string>
             </dict>
@@ -25,7 +25,7 @@
               <key>kind</key>
               <string>full-size-image</string>
               <key>needs-shine</key>
-              <true/>
+              <false/>
               <key>url</key>
               <string>https://raw.githubusercontent.com/testJane/JaneTest/master/H3weekly.png</string>
             </dict>
