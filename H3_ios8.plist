@@ -25,7 +25,7 @@
               <key>kind</key>
               <string>full-size-image</string>
               <key>needs-shine</key>
-              <true/>
+              <false/>
               <key>url</key>
               <string>http://10.240.146.13/H3weekly.png</string>
             </dict>
